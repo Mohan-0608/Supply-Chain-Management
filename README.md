@@ -75,5 +75,14 @@ Real-Time Visibility/
                  streamlit run truck_dashboard.py
    Open the browser (usually http://localhost:8501) to interact with the dashboard
 
+## 📬 Contact
+   Created by *Mohan.I*
+   
+### 📧 Email: mohaniyyappan07@gmial.com
+### 🌐 GitHub: https://github.com/Mohan-0608 
+
+
+   
+
 
           
