@@ -34,10 +34,9 @@ Real-Time Visibility/
 
    ###1. Clone the Repository
 
-    ```bash
-                   git clone https://github.com/yourusername/real_time_truck_monitoring.git
-                    cd real_time_truck_monitoring
-
+    
+                 https://github.com/Mohan-0608/Supply-Chain-Management.git
+                 
    ###2.✅ How to Run:
 
    Save this code as
