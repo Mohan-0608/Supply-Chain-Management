@@ -9,12 +9,13 @@ A real-time truck monitoring system with simulation, CSV logging, a desktop GUI,
 
 Real-Time Visibility/
 
-├── truck_simulation.py           # CLI-based simulation
-├── truck_logger.py               # CSV logger module
-├── truck_gui.py                  # Desktop GUI with Tkinter
-├── truck_dashboard.py            # Web dashboard with Streamlit
-├── truck_logs.csv                # Auto-generated CSV file
-└── README.md                     # Project documentation
+├── truck_simulation.py # CLI-based simulation
+├── truck_logger.py # CSV logger module
+├── truck_gui.py # Desktop GUI using Tkinter
+├── truck_dashboard.py # Web dashboard using Streamlit
+├── truck_logs.csv # Auto-generated truck log file
+├── requirements.txt # Required Python libraries
+└── README.md # Project documentation
 
 
 
@@ -32,12 +33,11 @@ Real-Time Visibility/
 
    ## 🛠️ Installation
 
-   ###1. Clone the Repository
+   ### 1. Clone the Repository
 
-    
-                 https://github.com/Mohan-0608/Supply-Chain-Management.git
+                 gh repo clone Mohan-0608/Supply-Chain-Management
                  
-   ###2.✅ How to Run:
+   ### 2.✅ How to Run:
 
    Save this code as
      
@@ -53,7 +53,7 @@ Real-Time Visibility/
          
                   python truck_simulation.py
 
-### 📈 Usage
+### 3.📈 Usage
    ### 🧪 Run Truck Simulation (CLI)
              
                   python truck_simulation.py
